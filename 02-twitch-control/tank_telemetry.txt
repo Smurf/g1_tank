@@ -1,0 +1,15 @@
+Gimbal X Angle: 30/180
+Gimbal Y Angle: 90/180
+
+
+
+
+
+
+
+
+
+
+
+
+Front                               Rear

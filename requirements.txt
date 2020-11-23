@@ -1,0 +1,4 @@
+twitch-python
+RPi.GPIO
+pillow
+aiortc
