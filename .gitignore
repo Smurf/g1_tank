@@ -2,3 +2,4 @@ twitch_oauth2
 *.swp
 *.swo
 *.pem
+__pycache__
