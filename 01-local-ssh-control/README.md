@@ -18,7 +18,7 @@ This example gives simple keyboard and mouse control of the G1 tank.
 1. Press `T` to exit the python script.
 2. Run `killall streameye` to stop the webcam stream.
 
-###Controls
+### Controls
 
 #### Tank
 The tank itself is controlled with the following keys.
