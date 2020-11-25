@@ -37,7 +37,7 @@ Run a web server on the tank and host a low latency (~1 second) stream.
 # TODO
 
 - [ ] Add READMEs for each example with usage examples
-    - [ ] 01-local-ssh-control
+    - [x] 01-local-ssh-control
     - [ ] 02-twitch-control
     - [ ] 03-web-control
 - [ ] Create Examples
