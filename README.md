@@ -18,7 +18,9 @@ $ pip3 install -r requirements.txt
 
 # Overview
 
-READMEs are currently being generated for each example.
+> **NOTE:** READMEs are currently being generated for each example.
+
+Each example becomes progressively more complex beginning with a simple terminal control and evolving into a self contained web controlable robot.
 
 ### 01-local-ssh-control
 
@@ -26,7 +28,7 @@ An example of using streameye to create a local stream on your LAN. The tank is 
 
 ### 02-twitch-control
 
-This is a more complex example where the tank camera output is sent to a twitch.tv stream and can be controlled by chat.
+A more complex example where the tank camera output is sent to a twitch.tv stream and can be controlled by chat.
 
 ### 03-web-control
 
