@@ -1,10 +1,14 @@
 # 01-local-ssh-control
 
+This example gives simple keyboard and mouse control of the G1 tank.
+
 ## Using This Example
+
+> **NOTE:** You will need the dependencies installed to use this example. See the main README file for information.
 
 ### Starting the Example
 1. SSH into the Pi.
-2. Start the webcam stream in the background.
+2. Start the webcam stream in the background **(optional)**.
     - `nohup ./start_stream.sh </dev/null &`
 3. Start the `local_tank.py` script.
     - `python3 local_tank.py`
