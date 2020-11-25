@@ -16,10 +16,6 @@ def getch():
     return ch
 
 def main():
-    payload = { 'client_id': 'mf2t1gvi7mgasmd5pix5es6c7qx2ha',
-                'redirect_uri': 'http://localhost',
-                'scope': 'chat:read chat:edit'}
-    r = requests.get('https://id.twitch.tv/oauth2/authorize')
     my_tank = G1Tank()
     my_tank.gimbal_x_angle = 90
     my_tank.gimbal_y_angle = 90
