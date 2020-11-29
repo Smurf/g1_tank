@@ -3,3 +3,4 @@ twitch_oauth2
 *.swo
 *.pem
 __pycache__
+nohup.out
